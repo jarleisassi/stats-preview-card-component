@@ -166,7 +166,7 @@ section.container-picture {
     background-repeat: no-repeat no-repeat;
     width: 100%;
     height: auto;
-    background-blend-mode: hard-light;
+    background-blend-mode: multiply;
 }
 
 
